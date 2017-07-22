@@ -1,1 +1,1 @@
-Learning how to push a file to git hub
+Learning how to push a file to git hub.
